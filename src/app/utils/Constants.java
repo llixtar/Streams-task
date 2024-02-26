@@ -21,4 +21,6 @@ public class Constants {
     public final static int LIFECELL_073 = 1;
     public final static int LIFECELL_093 = 2;
 
+    public final static String SERCH_WORD = "123";
+
 }

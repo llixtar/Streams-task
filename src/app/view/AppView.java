@@ -2,7 +2,7 @@ package app.view;
 
 import java.util.Scanner;
 
-public class ViewApp {
+public class AppView {
 
     private final Scanner scanner = new Scanner(System.in);
 

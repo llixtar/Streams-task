@@ -1,8 +1,8 @@
 package app;
-import app.controler.ControlerApp;
+import app.controler.AppControler;
 
 public class App {
     public static void main(String[] args) {
-        new ControlerApp().runApp();
+        new AppControler().runApp();
     }
 }
